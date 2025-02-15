@@ -1,0 +1,16 @@
+requests
+fastapi
+uvicorn
+python-dateutil
+pandas
+scipy
+pybase64
+python-dotenv
+httpx
+markdown
+duckdb
+gitpython
+Pillow
+whisper
+pydub
+Flask
